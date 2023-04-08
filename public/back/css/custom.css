@@ -1,0 +1,12 @@
+table.dataTable tbody th, table.dataTable tbody td{
+	vertical-align: middle;
+}
+
+.bootstrap-tagsinput{
+	width: 100%;
+}
+
+.bootstrap-tagsinput .tag{
+	background: #0032FF;
+	padding: 0 5px;
+}
